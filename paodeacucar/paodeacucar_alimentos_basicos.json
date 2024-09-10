@@ -1,0 +1,254 @@
+[
+    {
+        "item_number": 1,
+        "description": "Café Torrado e Moído Extraforte 3 Corações Pacote 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/57156/cafe-torrado-e-moido-extraforte-3-coracoes-pacote-500g",
+        "price": "R$18,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/106/24583106.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 2,
+        "description": "Feijão Carioca Tipo 1 Cores Qualitá Pacote 1kg",
+        "link_to_item": "https://www.paodeacucar.com/produto/162207/feijao-carioca-tipo-1-cores-qualita-pacote-1kg",
+        "price": "R$6,79",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/603/23627603.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 3,
+        "description": "Arroz Agulhinha Tipo 1 QUALITÁ Pacote 1kg",
+        "link_to_item": "https://www.paodeacucar.com/produto/102639/arroz-agulhinha-tipo-1-qualita-pacote-1kg",
+        "price": "R$6,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/822/633822.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 4,
+        "description": "Cereal Matinal NESFIT sem Adição de Açúcares 220g",
+        "link_to_item": "https://www.paodeacucar.com/produto/451644/cereal-matinal-nesfit-sem-adicao-de-acucares-220g",
+        "price": "R$14,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/740/19475740.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 5,
+        "description": "Cereal Matinal NESCAU Tradicional 210g",
+        "link_to_item": "https://www.paodeacucar.com/produto/439344/cereal-matinal-nescau-tradicional-210g",
+        "price": "R$11,43",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/11/30495011.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 6,
+        "description": "Chá Morango & Maracujá Leãozinho Caixa 23g 10 Unidades",
+        "link_to_item": "https://www.paodeacucar.com/produto/699196/cha-morango---maracuja-leaozinho-caixa-23g-10-unidades",
+        "price": "R$11,83",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/273/19457273.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 7,
+        "description": "Óleo de Soja LIZA Pet 900ml",
+        "link_to_item": "https://www.paodeacucar.com/produto/131661/oleo-de-soja-liza-pet-900ml",
+        "price": "R$5,94",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/541/21772541.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 8,
+        "description": "Óleo de Algodão Tipo 1 Liza Especiais Garrafa 900ml",
+        "link_to_item": "https://www.paodeacucar.com/produto/806488/oleo-de-algodao-tipo-1-liza-especiais-garrafa-900ml",
+        "price": "R$13,00",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/755/24162755.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 9,
+        "description": "Leite UHT Integral Paulista Caixa com Tampa 1l",
+        "link_to_item": "https://www.paodeacucar.com/produto/1616715/leite-uht-integral-paulista-caixa-com-tampa-1l",
+        "price": "R$6,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/539/26058539.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 10,
+        "description": "Leite UHT Desnatado Paulista Caixa com Tampa 1l",
+        "link_to_item": "https://www.paodeacucar.com/produto/1616723/leite-uht-desnatado-paulista-caixa-com-tampa-1l",
+        "price": "R$6,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/884/26082884.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 11,
+        "description": "Macarrão de Sêmola de Trigo Durum Spaghetti Las Acacias Pacote 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1616872/macarrao-de-semola-de-trigo-durum-spaghetti-las-acacias-pacote-500g",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/183/26944183.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 12,
+        "description": "Macarrão de Sêmola de Trigo Durum com Manjericão Fusilli Las Acacias Pacote 400g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1619355/macarrao-de-semola-de-trigo-durum-com-manjericao-fusilli-las-acacias-pacote-400g",
+        "price": "R$8,79",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/177/26944177.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 13,
+        "description": "Macarrão de Sêmola de Trigo Durum Integral Fusilli Las Acacias Pacote 400g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1619087/macarrao-de-semola-de-trigo-durum-integral-fusilli-las-acacias-pacote-400g",
+        "price": "R$9,19",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/197/26944197.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 14,
+        "description": "\"Biscoito Cookie com Pedaços de Chocolate ao Leite e Amargo Merba Pacote 200g _ Importação \"",
+        "link_to_item": "https://www.paodeacucar.com/produto/1065156/biscoito-cookie-com-pedacos-de-chocolate-ao-leite-e-amargo-merba-pacote-200g-_-importacao-",
+        "price": "R$19,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/482/24133482.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 15,
+        "description": "Biscoito VIEIRA DE CASTRO Circus Mel 300g",
+        "link_to_item": "https://www.paodeacucar.com/produto/364945/biscoito-vieira-de-castro-circus-mel-300g",
+        "price": "R$19,29",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/947/541947.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 16,
+        "description": "Biscoito PRINCESA Amanteigado Sortido Pacote 400g",
+        "link_to_item": "https://www.paodeacucar.com/produto/46787/biscoito-princesa-amanteigado-sortido-pacote-400g",
+        "price": "R$28,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/337/607337.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 17,
+        "description": "Biscoito Dux Salgado Crackers Pacote 300g",
+        "link_to_item": "https://www.paodeacucar.com/produto/290624/biscoito-dux-salgado-crackers-pacote-300g",
+        "price": "R$14,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/652/479652.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 18,
+        "description": "Leite NINHO Integral 1L",
+        "link_to_item": "https://www.paodeacucar.com/produto/463527/leite-ninho-integral-1l",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/200/656200.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 19,
+        "description": "Leite Semi Desnatado NINHO Levinho 1L",
+        "link_to_item": "https://www.paodeacucar.com/produto/463526/leite-semi-desnatado-ninho-levinho-1l",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/202/656202.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 20,
+        "description": "Leite Desnatado MOLICO 1L",
+        "link_to_item": "https://www.paodeacucar.com/produto/463524/leite-desnatado-molico-1l",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/203/656203.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 21,
+        "description": "Leite UHT Integral Nestlé Ninho Caixa com Tampa 1l",
+        "link_to_item": "https://www.paodeacucar.com/produto/468291/leite-uht-integral-nestle-ninho-caixa-com-tampa-1l",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/744/669744.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 22,
+        "description": "Leite UHT Desnatado Molico Caixa com Tampa 1L",
+        "link_to_item": "https://www.paodeacucar.com/produto/478301/leite-uht-desnatado-molico-caixa-com-tampa-1l",
+        "price": "R$8,39",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/383/30767383.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 23,
+        "description": "Café Pilão Torrado E Moído Tradicional Almofada 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/152052/cafe-pilao-torrado-e-moido-tradicional-almofada-500g",
+        "price": "R$23,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/659/669659.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 24,
+        "description": "Café Pilão Torrado E Moído Extra Forte Vácuo 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/292183/cafe-pilao-torrado-e-moido-extra-forte-vacuo-500g",
+        "price": "R$23,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/672/669672.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 25,
+        "description": "Café Pilão Torrado E Moído Extra Forte Almofada 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/292186/cafe-pilao-torrado-e-moido-extra-forte-almofada-500g",
+        "price": "R$23,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/660/669660.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 26,
+        "description": "Batata Frita Ondulada Original Elma Chips Ruffles Pacote 115g",
+        "link_to_item": "https://www.paodeacucar.com/produto/600966/batata-frita-ondulada-original-elma-chips-ruffles-pacote-115g",
+        "price": "R$10,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/511/23493511.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 27,
+        "description": "Palitinho Salgado Elma Chips Stiksy 76G",
+        "link_to_item": "https://www.paodeacucar.com/produto/1623277/palitinho-salgado-elma-chips-stiksy-76g",
+        "price": "R$4,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/230/27218230.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 28,
+        "description": "Salgadinho de Milho Queijo Nacho Doritos Pacote 120g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1623329/salgadinho-de-milho-queijo-nacho-doritos-pacote-120g",
+        "price": "R$13,79",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/54/27218054.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 29,
+        "description": "Salgadinho de Trigo Churrasco Torcida Pacote 100g",
+        "link_to_item": "https://www.paodeacucar.com/produto/469996/salgadinho-de-trigo-churrasco-torcida-pacote-100g",
+        "price": "R$3,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/732/26669732.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 30,
+        "description": "Batata Frita Lisa Clássica Lays 70G",
+        "link_to_item": "https://www.paodeacucar.com/produto/1623326/batata-frita-lisa-classica-lays-70g",
+        "price": "R$9,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/87/27218087.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 31,
+        "description": "Ovinhos de Amendoim Elma Chips Pacote 235g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1623310/ovinhos-de-amendoim-elma-chips-pacote-235g",
+        "price": "R$13,79",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/964/27217964.jpg?im=Resize,width=200"
+    },
+    {
+        "item_number": 32,
+        "description": "Café L'OR Forza Grãos 500g",
+        "link_to_item": "https://www.paodeacucar.com/produto/413063/cafe-lor-forza-graos-500g",
+        "price": "R$67,90",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/490/2030490.jpeg?im=Resize,width=200"
+    },
+    {
+        "item_number": 33,
+        "description": "Café Solúvel Liofilizado Montanhas Capixabas L'or Vidro 84g",
+        "link_to_item": "https://www.paodeacucar.com/produto/1515094/cafe-soluvel-liofilizado-montanhas-capixabas-lor-vidro-84g",
+        "price": "R$24,99",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/266/24623266.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 34,
+        "description": "Café em Cápsula Torrado e Moído Uganda Caixa 52g 10 Unidades",
+        "link_to_item": "https://www.paodeacucar.com/produto/1376368/cafe-em-capsula-torrado-e-moido-uganda-caixa-52g-10-unidades",
+        "price": "R$25,49",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/18/28586018.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 35,
+        "description": "Café Torrado e Moído Delicado L'or Torras Gourmet Sachê 250g",
+        "link_to_item": "https://www.paodeacucar.com/produto/596302/cafe-torrado-e-moido-delicado-lor-torras-gourmet-sache-250g",
+        "price": "R$19,29",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/442/22560442.png?im=Resize,width=200"
+    },
+    {
+        "item_number": 36,
+        "description": "Leite em Pó Integral Instantâneo ITAMBÉ Pacote 400g",
+        "link_to_item": "https://www.paodeacucar.com/produto/87810/leite-em-po-integral-instantaneo-itambe-pacote-400g",
+        "price": "R$19,79",
+        "image_url": "https://static.paodeacucar.com/img/uploads/1/766/19417766.png?im=Resize,width=200"
+    }
+]

@@ -1,0 +1,275 @@
+[
+    {
+        "description": "Ovo Branco Granja da Gema Bandeja 30Un",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/ovo-branco-granja-da-gema-bandeja-30un",
+        "price": "17,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/ae2b75bf91fa413bb59d22353277b89431fdb28b71122327e642a344b98a4e09_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Ovos Vermelhos Dagema Bandeja 30Un",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/ovos-vermelhos-dagema-bandeja-30un",
+        "price": "18,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/8cb38750bab0333adf95c72a4f715a282b0933fc0a0c5fb488b20221e7eed84c_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Ovos de Codorna Granja Boa Vista Embalagem 25Un",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/ovos-de-codorna-granja-boa-vista-embalagem-25un",
+        "price": "9,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/4558769622da33186f25f3527d9ce291c50146c12100a29fdec7f19cafb68d10_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Ovo Vermelho Avine Extra 20Un",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/ovo-vermelho-avine-extra-20un",
+        "price": "15,49",
+        "image_url": "https://img.sitemercado.com.br/produtos/88b2a980facc4ba5c77d309c28df65471e37a59e05c5e6e272ac9c8d6acaf93f_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Feijão Verde",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/feijao-verde",
+        "price": "22,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/996ee71c8d49f2f1feebf68313d0db5ec3f17cf91edd222381a0e73f4a1f6e57_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Feijão Preto Cometa Embalagem 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/feijao-preto-cometa-embalagem-1kg",
+        "price": "8,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/8b2abc6663eaf5167f6f678bc6f81ee6d480558215ba2e65a1f63c97786a6aef_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Feijão Carioca Cometa Tipo 1 Embalagem 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/feijao-carioca-cometa-tipo-1-embalagem-1kg",
+        "price": "7,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/14546aa94b932290d04cf58671223ec3252e1145d41f20f6a2fb86db45a1089b_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Feijão Macassar Cometa 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/feijao-macassar-cometa-1kg",
+        "price": "7,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/e5da26205de59d339c0f0ff3921caa4bee69650b82b74dc3dac6d2f9d7499456_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Açúcar Demerara Alegre Embalagem 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/acucar-demerara-alegre-embalagem-1kg",
+        "price": "5,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/3730a2d3ff0d1f7f5efbfb731cbb7490af3885c5e85718d96b79d4379fe10cb4_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Açúcar Cristal Alegre Embalagem 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/acucar-cristal-alegre-embalagem-1kg",
+        "price": "4,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/919dd60bb9b50fef005678a2afe6d355aa04ce09f246165fe1b852ec88ffded3_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Açúcar Triturado Alegre Embalagem 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/acucar-triturado-alegre-embalagem-1kg",
+        "price": "4,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/a18a4d762e1c293b5cbc2c5e71477ac98c12cc750f028b880565c240c1b768b0_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Açucar Refinado Estrela 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/acucar-refinado-estrela-1kg",
+        "price": "4,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/93834f28c05ab96de79c26f0e6ee4998b5a40558123112fc13fbbc01f02ccbd4_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Tapioca Daterra Embalagem 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/tapioca-daterra-embalagem-1kg",
+        "price": "6,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/b39e5e49e42c947cf9efbbd37d8e94eece1954acd09f22a98e5e2481510eded0_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Farofa Mandio Artesanal 500G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/farofa-mandio-artesanal-500g",
+        "price": "21,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/42f3d65e5d596be81c53053fc2bbc2f28e346f21de2e22e21a6defc00bed6104_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Flocão São Braz 500g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/flocao-sao-braz-500g",
+        "price": "1,69",
+        "image_url": "https://img.sitemercado.com.br/produtos/d0e42b66f82cb48d6125ef13d1d18d2907edcdb49f6d4d917e2390cf6718e361_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Farinha Amarela",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/farinha-amarela",
+        "price": "9,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/a7b490c4e3af841a01b4decca4c7dae2f9abc8f2d3cc96b18b4b7f1e0634ee2f_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Arroz Parbolizado Cometa 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/arroz-parbolizado-cometa-1kg",
+        "price": "6,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/f89927facd938b092266210833dc5f083c040758072ef7e0fb696508773f5642_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Arroz Branco Tipo 1 Tio Urbano 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/arroz-branco-tipo-1-tio-urbano-1kg",
+        "price": "8,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/e2ebf61cf97815dc0fd56b9dd388bb3502bfacd75ffb4706c8b40f21d6c77997_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Arroz Branco T1 Camil 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/arroz-branco-t1-camil-1kg",
+        "price": "8,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/3e4b738d61573e43be3c3f30125d88f109d09fe7f353a66d4fbc3f08d3fb6b80_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Arroz da Terra Mais Delícia Tipo 1 Pacote 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/arroz-da-terra-mais-delicia-tipo-1-pacote-1kg",
+        "price": "8,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/03d2ec993512c11bf0156207f4616155f0b7a08b625c9ee536661d8be221505d_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Sal Refinado Lebre 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/sal-refinado-lebre-1kg",
+        "price": "1,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/cf3b80d9620810c2a8de322ff0561933521b65230faef42fd96f1808fd2fa69d_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Sal Marlin 1kg Iodado",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/sal-marlin-1kg-iodado",
+        "price": "1,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/88d324a6059d8271bfc213d987591fc2a728b5c0a6db9e741a37a7f8572eae9e_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Sal Refinado Miramar Moido 1kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/sal-refinado-miramar-moido-1kg",
+        "price": "1,49",
+        "image_url": "https://img.sitemercado.com.br/produtos/8c4f5f8e3ce21d560a792107d2abd6003e6233907cf45be2adee937b306f90b5_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Sal Marinho de Mossoro Grosso Smart 1Kg",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/Sal-Marinho-de-Mossoro-Grosso-Smart-1Kg",
+        "price": "19,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/9c8299d6c92a81845660d87d0ca9eb4ff7842a646db70fe209960a093d53dc58_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Óleo de Soja Soya 900ml",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/oleo-de-soja-soya-900ml",
+        "price": "7,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/d544510edbb6d70e58353f557f6748e9942de43f84b8c0849200d60240c2f472_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Vinagre de Álcool Figueira 750ml",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/vinagre-de-alcool-figueira-750ml",
+        "price": "2,79",
+        "image_url": "https://img.sitemercado.com.br/produtos/df10d177883a3475ab7305d9a91ed2c050a9d82d33f2fe8f426405632a719a3a_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Vinagre Molhito Álcool Embalagem 500Ml",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/vinagre-molhito-alcool-embalagem-500ml",
+        "price": "1,49",
+        "image_url": "https://img.sitemercado.com.br/produtos/861dd79aef3b5c9ceb7697ada55c1f31c3894b131a1d5f369b2c73ca4b94d4b9_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Vinagre de Maçã Minhoto Embalagem 250ml",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/vinagre-de-maca-minhoto-embalagem-250ml",
+        "price": "3,49",
+        "image_url": "https://img.sitemercado.com.br/produtos/f97c87861e00812027e6ca728f658587f7bdc5936888e98aabc905cd95eb4e51_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Cesta Básica",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/cesta-basica",
+        "price": "55,21",
+        "image_url": "https://img.sitemercado.com.br/produtos/9da9a1f81035e4ee7cdcd34e216c0530cdf6b965fc977610677b29e392872b94_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Mistura para Panqueca sem Glúten Vitalin 200G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/mistura-para-panqueca-sem-gluten-vitalin-200g",
+        "price": "9,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/0e56806207a0bbae1837842dffafcfa71c990cfeb45df9370a8cb0e6d50bc070_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Massa Linguini Konjac 270G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/massa-linguini-konjac-270g",
+        "price": "20,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/1c00a877d3a7502125dbb24e1e8d83457944ecfbdd378c5d8dbaa0b23631a7c6_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Macarrão de Sêmola Argola Speciale Vitarella 400g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/macarrao-de-semola-argola-speciale-vitarella-400g",
+        "price": "4,79",
+        "image_url": "https://img.sitemercado.com.br/produtos/11b90661743d030e3b9a04429d3ae240c1d05d69c5ac957d4400db2b86125320_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Macarrão de Sêmola Espaguete Fortaleza 400G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/macarrao-de-semola-espaguete-fortaleza-400g",
+        "price": "4,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/c3129167bab06e8757f5b54d051a514ea3aa68c948c78be66c4d3978efb25c9b_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Macarrao Fino Vitarella Comum 400 G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/macarrao-fino-vitarella-comum-400-g",
+        "price": "2,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/a251ef9db5d4be44cf0d7d95157a5e512c78d8eac0156634dafb73af94e0e2f2_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Macarrão Linguine Speciale Vitarella 400G",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/macarrao-linguine-speciale-vitarella-400g",
+        "price": "4,79",
+        "image_url": "https://img.sitemercado.com.br/produtos/42fd3205fa23bb8d79954e63d8f30eb5e520bcdb57c30923bdb7a8cb72252e3c_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Lentilha Kicaldo 500g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/lentilha-kicaldo-500g",
+        "price": "13,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/ef0de0a54e887eda51798a8bf9e9e83bd4b8e63cef3a01ba758fff843be1c20c_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Milho para Pipoca Rei de Ouro 500g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/milho-para-pipoca-rei-de-ouro-500g",
+        "price": "3,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/cb59d4781bc33fa801f8989ca661aabc2937ad9719b869fb6aecceea9639a77f_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Grão de Bico Camil 500g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/grao-de-bico-camil-500g",
+        "price": "8,99",
+        "image_url": "https://img.sitemercado.com.br/produtos/3890f24e11f6184e2f1b2ed036dd56f052e83f694d032d9134f012a84b264427_mini.jpg",
+        "category": "Mercearia"
+    },
+    {
+        "description": "Milho de Pipoca Yoki Premium 400g",
+        "link_to_item": "https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produto/milho-de-pipoca-yoki-premium-400g",
+        "price": "5,49",
+        "image_url": "https://img.sitemercado.com.br/produtos/d3f26352708d0ad0757e51c4e8e19f16f81c0d65bd6a541e9f6890112dd1db87_mini.jpg",
+        "category": "Mercearia"
+    }
+]

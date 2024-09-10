@@ -1,0 +1,296 @@
+[
+    {
+        "item_number": 1,
+        "description": "R$3,39\nDETERGENTE LÍQUIDO LIMPOL MAÇÃ 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/04ffe30b6cb788c29645ce21450b60f4a9294fa9.png",
+        "price": "R$3,39"
+    },
+    {
+        "item_number": 2,
+        "description": "R$25,90\nSABÃO LÍQUIDO OMO ROUPAS FINAS E DELICADAS ORIGINAL 900ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_131186_image_processed_176651e4-eddd-4d8d-ac0a-76d0d28ea46d.png",
+        "price": "R$25,90"
+    },
+    {
+        "item_number": 3,
+        "description": "R$5,39\nESPONJA LIMPPANO SALVA UNHAS\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/a890f265a5c8625c6042710acce1910c505edffe.png",
+        "price": "R$5,39"
+    },
+    {
+        "item_number": 4,
+        "description": "R$5,59\nAMACIANTE MINUANO CLASSICO 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7897664150041-min.png",
+        "price": "R$5,59"
+    },
+    {
+        "item_number": 5,
+        "description": "R$27,49\nLAVA ROUPAS EM PÓ MINUANO COCO PREMIUM CAIXA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7897664120037-min.png",
+        "price": "R$27,49"
+    },
+    {
+        "item_number": 6,
+        "description": "R$21,90\nSABÃO LÍQUIDO REFIL OMO LAVAGEM PERFEITA 900ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_130787_image_processed_12d18c9a-65bb-4547-ab88-ce4df5f76e7f.png",
+        "price": "R$21,90"
+    },
+    {
+        "item_number": 7,
+        "description": "R$6,99\nLUSTRA MÓVEIS PEROBA LAVANDA 100ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896050500460-min.png",
+        "price": "R$6,99"
+    },
+    {
+        "item_number": 8,
+        "description": "R$5,39\nSABAO EM PO BEM TE VI LAVANDA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/a236e9754db8cde46cfc90530c87c9b1e6b4b10a.png",
+        "price": "R$5,39"
+    },
+    {
+        "item_number": 9,
+        "description": "R$9,89\nLIMPADOR MULTIUSO VEJA 500ML FLORAL 500ML 10% DESCONTO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891035285165-min.png",
+        "price": "R$9,89"
+    },
+    {
+        "item_number": 10,
+        "description": "R$18,49\nSAPOLIO RADIUM CREMOSO CLASSICO 250ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891022861044-min.png",
+        "price": "R$18,49"
+    },
+    {
+        "item_number": 11,
+        "description": "R$17,99\nDESENGORDURANTE MR MUSCULO 500ML LARANJA COZINHA 20%DESC\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7894650013908-min.png",
+        "price": "R$17,99"
+    },
+    {
+        "item_number": 12,
+        "description": "R$24,90\nDESINFETANTE PATO BLOCO MARINE 48G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7894650002513-min.png",
+        "price": "R$24,90"
+    },
+    {
+        "item_number": 13,
+        "description": "R$22,39\nLAVA ROUPAS ARIEL 700ML SACHÊ CLÁSSICO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_120565_image_processed_8ee2f2f2-221a-4e3e-b74d-1779031feaf0.png",
+        "price": "R$22,39"
+    },
+    {
+        "item_number": 14,
+        "description": "R$12,39\nSABAO EM PO OMO LAVAGEM PERFEITA 400G SACHE LAVANDA\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891150064706-min.png",
+        "price": "R$12,39"
+    },
+    {
+        "item_number": 15,
+        "description": "R$12,39\nLAVA ROUPAS PÓ OMO LAVA PERFEITA CARTUCHO CAIXA 400G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891150065284-min.png",
+        "price": "R$12,39"
+    },
+    {
+        "item_number": 16,
+        "description": "R$8,39\nSABAO BARRA MINUANO 200G COCO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7897664171541-min.png",
+        "price": "R$8,39"
+    },
+    {
+        "item_number": 17,
+        "description": "R$9,99\nPINHO SOL LIMAO 500 ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891024195307-min.png",
+        "price": "R$9,99"
+    },
+    {
+        "item_number": 18,
+        "description": "R$34,99\nSABÃO LÍQUIDO OMO ROUPAS FINAS E DELICADAS COCO 900ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_131185_image_processed_1eb97d43-0ca5-465f-b19f-63e1ef89742c.png",
+        "price": "R$34,99"
+    },
+    {
+        "item_number": 19,
+        "description": "R$4,49\nÁGUA SANITÁRIA BRILUX LEVE 1L PAGUE 900ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_83706_image_processed_4e5d4f1a-a1fd-464e-955a-dceb890eebcf.png",
+        "price": "R$4,49"
+    },
+    {
+        "item_number": 20,
+        "description": "R$11,49\nPANO MULTIUSO FURATTO LAVANDA COM 5\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896021623389-min.png",
+        "price": "R$11,49"
+    },
+    {
+        "item_number": 21,
+        "description": "R$27,49\nINSETICIDA SBP MULTI INSETOS EUCALIPTO LEVE 450ML PAGUE 300ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_5241_image_processed_337c6ed7-2699-4ef3-9fa9-b1789a1d216f.png",
+        "price": "R$27,49"
+    },
+    {
+        "item_number": 22,
+        "description": "R$11,49\nÓLEO DE PEROBA TRADICIONAL 100ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/0000078901919-min.png",
+        "price": "R$11,49"
+    },
+    {
+        "item_number": 23,
+        "description": "R$11,49\nOLEO DE PEROBA KING 100ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/17_978449_f7d588d4-fa32-4c43-90cf-b0b68c577ae4.png",
+        "price": "R$11,49"
+    },
+    {
+        "item_number": 24,
+        "description": "R$19,49\nAMACIANTE DOWNY FRESCOR PRIMAVERA 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_75729_image_processed_1d51f671-80f1-40a5-b678-a05e38c16a3d.png",
+        "price": "R$19,49"
+    },
+    {
+        "item_number": 25,
+        "description": "R$5,99\nDESINFETANTE KALIPTO EUCALIPTO 750ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891022101249-min.png",
+        "price": "R$5,99"
+    },
+    {
+        "item_number": 26,
+        "description": "R$4,89\nDESINFETANTE MINUANO EUCALIPTO 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/fb600c8141c113930266890b382759ae59961f10.png",
+        "price": "R$4,89"
+    },
+    {
+        "item_number": 27,
+        "description": "R$5,49\nÁGUA SANITÁRIA BRILUX PERFUMADA FLORAL 1L\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896013102601-min.png",
+        "price": "R$5,49"
+    },
+    {
+        "item_number": 28,
+        "description": "R$13,49\nDESINFETANTE MINUANO LAVANDA 2L\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/5cf0c70a85e9772a7bc24c93065191e4ed36b6b1.png",
+        "price": "R$13,49"
+    },
+    {
+        "item_number": 29,
+        "description": "R$3,39\nDETERGENTE LÍQUIDO LIMPOL LIMÃO 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/0cbda83af201fdeb81c1d49a72133c9ba7acf634.png",
+        "price": "R$3,39"
+    },
+    {
+        "item_number": 30,
+        "description": "R$17,49\nAMACIANTE MINUANO CLÁSSICO CARINHO 2L\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7897664150010-min.png",
+        "price": "R$17,49"
+    },
+    {
+        "item_number": 31,
+        "description": "R$7,89\nSACO DE LIXO TUBARAO 30L COM 10 UNIDADES\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/76e0629036526984dd5bbcf67827b527c088be92.png",
+        "price": "R$7,89"
+    },
+    {
+        "item_number": 32,
+        "description": "R$3,49\nESPONJA AÇO BOM BRIL ECO 60G 8 UNIDADES\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_2198_image_processed_ef116e81-d849-4ddc-a73a-ace5c8b6c454.png",
+        "price": "R$3,49"
+    },
+    {
+        "item_number": 33,
+        "description": "R$3,49\nESPONJA DE ACO BOMBRIL COM 08\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891022101119-min.png",
+        "price": "R$3,49"
+    },
+    {
+        "item_number": 34,
+        "description": "R$3,49\nLA DE ACO BOMBRIL 60G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891022861198-min.png",
+        "price": "R$3,49"
+    },
+    {
+        "item_number": 35,
+        "description": "R$3,49\nESPONJA DE ACO BOMBRIL COM 8 UNIDADES DESCONTO ESPECIAL\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891022855029-min.png",
+        "price": "R$3,49"
+    },
+    {
+        "item_number": 36,
+        "description": "R$12,39\nSABÃO EM PÓ OMO LAVAGEM PERFEITA 400G SACHÊ\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891150064522-min.png",
+        "price": "R$12,39"
+    },
+    {
+        "item_number": 37,
+        "description": "R$4,99\nPASTILHA SANITARIA GLADE LAVANDA PROMOCIONAL COM REDE + GANCHO + PEDRA\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_71900_image_processed_9074cb9e-55a2-44f1-8268-ef12baeefcd5.png",
+        "price": "R$4,99"
+    },
+    {
+        "item_number": 38,
+        "description": "R$34,99\nSABÃO LÍQUIDO OMO ROUPAS FINAS E DELICADAS BEBÊ 900ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7891150072800-min.png",
+        "price": "R$34,99"
+    },
+    {
+        "item_number": 39,
+        "description": "R$19,99\nDETERGENTE LÍQUIDO OMO LAVAGEM PERFEITA RF.700ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_859694_image_processed_dcad1e05-08cc-454d-bc40-62129f296c58.png",
+        "price": "R$19,99"
+    },
+    {
+        "item_number": 40,
+        "description": "R$9,99\nSACO PARA LIXO TUBARAO 15L COM 20UND\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_72029_image_processed_b0720684-9c19-488a-a415-d8b6aebce351.png",
+        "price": "R$9,99"
+    },
+    {
+        "item_number": 41,
+        "description": "R$10,90\nDESODORIZADOR SANITARIO PATO 3 UNIDADES PASTILHA LAVANDA\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7894650013502-min.png",
+        "price": "R$10,90"
+    },
+    {
+        "item_number": 42,
+        "description": "R$2,89\nÁGUA SANITÁRIA OLIMPO BRANCA 1L\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896013100461-min.png",
+        "price": "R$2,89"
+    },
+    {
+        "item_number": 43,
+        "description": "R$21,99\nINSETICIDA BAYGON AÇÃO TOTAL EUCALIPTO 300ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/210_1841_68a69b2b-3327-4387-b7ca-a7ceda1927bd.png",
+        "price": "R$21,99"
+    },
+    {
+        "item_number": 44,
+        "description": "R$18,90\nAMACIANTE ROUPA DOWNY CONCENTRADO ADORAVEL 450ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_384103_image_processed_ed6e638c-575e-4e77-be63-6e2fb1878037.png",
+        "price": "R$18,90"
+    },
+    {
+        "item_number": 45,
+        "description": "R$21,99\nINSETICIDA AEROSSOL AÇÃO TOTAL BAYGON FRASCO 360ML EMBALAGEM ECONÔMICA\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/438bd6aeaee8aaad26b24124b39305d36d8171a0.png",
+        "price": "R$21,99"
+    },
+    {
+        "item_number": 46,
+        "description": "R$17,90\nSABAO BARRA MINUANO 5X180G GLICERINADO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7908324402865-min.png",
+        "price": "R$17,90"
+    },
+    {
+        "item_number": 47,
+        "description": "R$4,49\nSABAO EM BARRA MINUANO NEUTRO 180G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7908324402841-min.png",
+        "price": "R$4,49"
+    },
+    {
+        "item_number": 48,
+        "description": "R$3,29\nDETERGENTE LÍQUIDO LIMPOL NEUTRO 500ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/c4c5f149d8ffc7378acfa27d006818b027afea97.png",
+        "price": "R$3,29"
+    },
+    {
+        "item_number": 49,
+        "description": "R$5,49\nDESINFETANTE KALIPTO LAVANDA 750ML\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/1b64eaf50ce9d3cf379a4ea7a312bd06075d23d5.png",
+        "price": "R$5,49"
+    }
+]

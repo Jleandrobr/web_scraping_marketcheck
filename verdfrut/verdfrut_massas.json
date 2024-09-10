@@ -1,0 +1,146 @@
+[
+    {
+        "item_number": 1,
+        "description": "R$7,89\nLASANHA PRE COZIDA VITARELLA 200G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/d4114a875a54f0583cc54a859ca8b8978169fdc3.png",
+        "price": "R$7,89"
+    },
+    {
+        "item_number": 2,
+        "description": "R$18,90\nLASANHA 4QUEIJOS CONGELADO FORNO DE MINAS 600G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896074605318-min.png",
+        "price": "R$18,90"
+    },
+    {
+        "item_number": 3,
+        "description": "R$1,69\nMACARRAO INST VITARELLA 74\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_341723_image_processed_24ae969d-93d3-46e7-8e96-a7787bd063ad.png",
+        "price": "R$1,69"
+    },
+    {
+        "item_number": 4,
+        "description": "R$5,59\nMACARRÃO URBANO PARAFUSO SEM GLÚTEN 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896038310197-min.png",
+        "price": "R$5,59"
+    },
+    {
+        "item_number": 5,
+        "description": "R$8,49\nMACARRÃO URBANO MASSA DE ARROZ INTEGRAL PENA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896038306190-min.png",
+        "price": "R$8,49"
+    },
+    {
+        "item_number": 6,
+        "description": "R$7,98\nGOMA DE MANDIOCA NORTE 1KG\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_117836_70102f72-161d-462e-a18f-031238ed5600.png",
+        "price": "R$7,98"
+    },
+    {
+        "item_number": 7,
+        "description": "R$10,78\nGOMA DE BATATA DOCE ZE DE LIMA 400G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7898906375093-min.png",
+        "price": "R$10,78"
+    },
+    {
+        "item_number": 8,
+        "description": "R$11,99\nMACARRAO ITALIANO DE GRANO DURO N 9 SPAGHETTINI DIVELLA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/8005121000092-min.png",
+        "price": "R$11,99"
+    },
+    {
+        "item_number": 9,
+        "description": "R$11,99\nMACARRAO DIVELLA 500G SPAGHETTI RIST 8\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/8005121000085-min.png",
+        "price": "R$11,99"
+    },
+    {
+        "item_number": 10,
+        "description": "R$18,90\nLASANHA FORNO MINAS BOLONHESA 600G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896074604496-min.png",
+        "price": "R$18,90"
+    },
+    {
+        "item_number": 11,
+        "description": "R$9,39\nMACARRAO LASANHA VITARELLA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/f173382a6ba1e16bc0ca0159aa1106517c27c4cb.png",
+        "price": "R$9,39"
+    },
+    {
+        "item_number": 12,
+        "description": "R$11,58\nTAPIOCA BATATA DOCE ZE DE LIMA 400G PREMIUM\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7898906375086-min.png",
+        "price": "R$11,58"
+    },
+    {
+        "item_number": 13,
+        "description": "R$32,29\nMOLHO AMATRICIANA 400G PASTIFICIO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_118105_image_processed_0e3711b5-a36c-440d-adf8-dba31ed284d5.png",
+        "price": "R$32,29"
+    },
+    {
+        "item_number": 14,
+        "description": "R$39,90\nMOLHO 4 QUEIJOS IL PASTIFICIO 400G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7898650690114-min.png",
+        "price": "R$39,90"
+    },
+    {
+        "item_number": 15,
+        "description": "R$1,69\nMACARRAO INSTANTANEO VITARELLA LAMEN CARNE 74G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896213005160-min.png",
+        "price": "R$1,69"
+    },
+    {
+        "item_number": 16,
+        "description": "R$1,69\nMACARRAO INSTANTANEO VITARELLA 74\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_343149_image_processed_276d6954-8050-418a-b241-c3c62feffcaf.png",
+        "price": "R$1,69"
+    },
+    {
+        "item_number": 17,
+        "description": "R$ 7,78\nR$3,98\nGOMA VERDFRUT 1KG\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_1095049_7a22c2f5-119f-4f17-9d50-01882806d004.png",
+        "price": "R$3,98"
+    },
+    {
+        "item_number": 18,
+        "description": "R$11,99\nMASSA ITAL SPAGHETTI DIVELLA 500G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/8005121000092-min.png",
+        "price": "R$11,99"
+    },
+    {
+        "item_number": 19,
+        "description": "R$4,98\nGOMA VERDFRUT 450G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_1094923_3d1b7282-163a-424b-a78d-5927522afa1d.png",
+        "price": "R$4,98"
+    },
+    {
+        "item_number": 20,
+        "description": "R$4,98\nGOMA VERDFRUT 450G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_1095048_56578448-dda8-4be5-bae4-a484acac5dfb.png",
+        "price": "R$4,98"
+    },
+    {
+        "item_number": 21,
+        "description": "R$3,99\nMAC ESPAGUETE FINO VITARELLA 400G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_1133623_a893cd46-ecd8-46a5-b4b7-705a2bb5d34a.png",
+        "price": "R$3,99"
+    },
+    {
+        "item_number": 22,
+        "description": "R$5,29\nMACARRÃO FIDELINHO VITARELLA 400G\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/349_1202765_18a53559-bdf6-49b7-ab3b-d1fe14bf8634.png",
+        "price": "R$5,29"
+    },
+    {
+        "item_number": 23,
+        "description": "R$5,29\nMACARRAO PARAFUSO VITARELLA 400G SEMOLA\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/7896213006778-min.png",
+        "price": "R$5,29"
+    },
+    {
+        "item_number": 24,
+        "description": "R$5,99\nMAC VITARELLA SEMOLA 400G NINHO\nAdicionar",
+        "image": "https://merconnect-production.s3.amazonaws.com/uploads/products/Product_1205111_image_processed_9798e5d8-6020-403d-925c-be8bc6c50fa6.png",
+        "price": "R$5,99"
+    }
+]
