@@ -8,28 +8,22 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
-# Configurações do navegador
 chrome_options = Options()
-# chrome_options.add_argument("--headless")  # Executa o Chrome em modo headless (sem interface gráfica)
+# chrome_options.add_argument("--headless") 
 
-# Cria uma instância do navegador
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
-# URL da página que você deseja acessar
 # url = 'https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/lista-pronta/dia-de-faxina' ## Limpeza
 url = 'https://www.sitemercado.com.br/supermercadomanaira/joao-pessoa-loja-manaira-manaira-rua-joao-cancio/produtos/alimentos-basicos' ## Alimentos básicos
 
-# Abre a página
 driver.get(url)
 
 try:
 
-    # Espera até que os elementos estejam presentes na página
-    wait = WebDriverWait(driver, 20)  # Espera até 10 segundos
+    wait = WebDriverWait(driver, 20) 
     elements = wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.list-product-item')))
 
-    
-    # Verifica se há elementos encontrados
+
     if elements:
         items = []
         for idx, element in enumerate(elements):
@@ -53,10 +47,8 @@ try:
             except Exception as e:
                 print(f"Erro ao processar o elemento {idx + 1}: {e}")
         
-        # Converte a lista de itens em JSON
         items_json = json.dumps(items, ensure_ascii=False, indent=4)
-        
-        # Salva os dados em um arquivo JSON
+
         with open('supermanaira.json', 'w', encoding='utf-8') as json_file:
             json_file.write(items_json)
         
@@ -68,5 +60,4 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 finally:
-    # Fecha o navegador
     driver.quit()
