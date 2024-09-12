@@ -3,7 +3,7 @@ import json
 
 # config do banco de dados
 conn = psycopg2.connect(
-    dbname="marketcheck", ## criar um banco de dados chamado marketcheck
+    dbname="marketcheck_development", ## criar um banco de dados chamado marketcheck
     user="postgres", ## subsituir pelo seu usuário
     password="1234", ## subsituir por sua senha
     host="localhost", 
@@ -16,8 +16,8 @@ cur = conn.cursor()
 def inserir_dados(mercado_id, produtos_json):
     for produto in produtos_json:
         cur.execute("""
-            INSERT INTO Produtos (nome_produto, link_to_item, image_url, preco, categoria)
-            VALUES (%s, %s, %s, %s, %s)
+            INSERT INTO Produtos (nome_produto, link_to_item, image_url, preco, categoria, created_at, updated_at)
+            VALUES (%s, %s, %s, %s, %s, current_timestamp, current_timestamp)
             RETURNING id;
         """, (produto['description'], produto['link_to_item'], produto['image_url'], float(produto['price'].replace(',', '.')), produto['category']))
         
@@ -25,8 +25,8 @@ def inserir_dados(mercado_id, produtos_json):
         
         # inserir preço do produto na tabela ProdutosPreco
         cur.execute("""
-            INSERT INTO ProdutosPreco (produto_id, mercado_id, preco)
-            VALUES (%s, %s, %s)
+            INSERT INTO Produtos_Precos (produto_id, supermercado_id, preco, date_scraped, created_at, updated_at)
+            VALUES (%s, %s, %s, current_timestamp, current_timestamp, current_timestamp);
         """, (produto_id, mercado_id, float(produto['price'].replace(',', '.'))))
 
 # ids de mercado
