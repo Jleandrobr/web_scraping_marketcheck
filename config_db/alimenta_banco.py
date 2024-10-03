@@ -2,8 +2,13 @@ import psycopg2
 import json
 
 # config do banco de dados
+# conn = psycopg2.connect(
+#     "postgresql://root:ZEnRnvAwnztnyA96VC3dsLUTzfvqPNtY@dpg-crtc7l3tq21c73dnhdcg-a.oregon-postgres.render.com/marketcheck_development"
+# )
+# cur = conn.cursor()
+
 conn = psycopg2.connect(
-    dbname="marketcheck_development", ## criar um banco de dados chamado marketcheck
+dbname="marketcheck_development", ## criar um banco de dados chamado marketcheck
     user="postgres", ## subsituir pelo seu usuário
     password="1234", ## subsituir por sua senha
     host="localhost", 
